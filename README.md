@@ -1,4 +1,14 @@
 # Epic Gaming Dungeon
 Roguelike wave-based shooter made in Unity
 
-[![Gameplay Video](Images/Screen\ Shot\ 2020-04-30\ at\ 11.59.23\ AM.png)](https://www.youtube.com/watch?v=GLaHk2Lm_9w)
+## Gameplay
+
+[![Gameplay Video](Images/image.png)](https://www.youtube.com/watch?v=GLaHk2Lm_9w)
+
+## Controls
+
+This game uses an Xbox controller
+
+Move with the left stick
+
+Aim and fire with the right stick
