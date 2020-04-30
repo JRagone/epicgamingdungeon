@@ -1,0 +1,15 @@
+﻿Bullets: https://opengameart.org/content/bullet-collection-2-m484-games - Master484
+
+Characters, Env: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349 - Ansimuz
+
+Items: https://opengameart.org/content/roguelikerpg-items - @JoeCreates
+
+Crosshair: https://opengameart.org/content/retropixel-icons-v2-9x9 - Anton Revin
+
+Font: https://opengameart.org/content/boxy-bold-truetype-font - Clint Bellanger
+
+Shotgun: https://opengameart.org/content/tiny-gun-icons-16x16
+
+Tutorials -
+
+https://www.youtube.com/watch?v=LNLVOjbrQj4

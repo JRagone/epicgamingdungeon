@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Player
+  - Upgrade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2307446993
+    locked: 0
+  - name: Walls
+    uniqueID: 4048149571
+    locked: 0
+  - name: Collectible
+    uniqueID: 1640525483
+    locked: 0
+  - name: Ground Enemy
+    uniqueID: 2561272895
+    locked: 0
+  - name: Player
+    uniqueID: 3750329167
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2222015183
+    locked: 0
+  - name: Cursor
+    uniqueID: 1588020369
+    locked: 0
